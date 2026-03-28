@@ -2,6 +2,7 @@
 
 # 💫 About Me:
 Passion-driven. Project-loving. Finding joy in the simple things.<br>
+Still debugging. Always learning.<br>
 
 
 ## 🌐 Socials:
